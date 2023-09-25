@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# devops-netologynew line
-new line
-=======
 # Исключить все файлы с расширением .a
 *.a
 
